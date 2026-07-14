@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow Models
+saved_models/*.keras
+saved_models/*.h5
+
+# Dataset
+dataset/
+
+# OS
+.DS_Store
+Thumbs.db

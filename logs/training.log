@@ -1,0 +1,6 @@
+2026-07-14 20:13:26,655 - INFO - Training Started
+2026-07-14 20:27:52,157 - INFO - Training Started
+2026-07-14 20:27:56,094 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-14 22:26:17,496 - INFO - Training Started
+2026-07-14 22:26:19,912 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-07-14 23:02:30,340 - INFO - Training Finished Successfully
