@@ -336,6 +336,7 @@ label = predictor.predict("sample.jpg")
 
 print(label)
 ```
+result in predict.png
 
 ---
 
@@ -370,7 +371,7 @@ Example evaluation outputs include:
 - Confusion Matrix
 - Classification Report
 
-*(Replace this section with your actual experimental results once finalized.)*
+see result in accuracy loss curve.png, Confusion matrix.png
 
 ---
 
